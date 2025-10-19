@@ -1,3 +1,8 @@
 # InnovacionDatosProyectoFinal
 
-Archivo Colaborativo: https://colab.research.google.com/drive/1lFGNb2XBZBCyMKdlRHA8dKQqajO3_XgP
+Analisis exploratorio de datos.
+
+Pyhton Jupyter Notebook - Pandas Numpy Matplotlib Seaborn 
+
+Busqueda de patrones. Visualizaciones.  
+
