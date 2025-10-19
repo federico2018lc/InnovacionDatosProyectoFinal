@@ -1,8 +1,8 @@
 # InnovacionDatosProyectoFinal
 
-Analisis exploratorio de datos.
+ETL - EDA
 
 Pyhton - Google Colab - Jupyter Notebook - Pandas Numpy Matplotlib Seaborn 
 
-Busqueda de patrones. Visualizaciones.  
+Patrons   
 
