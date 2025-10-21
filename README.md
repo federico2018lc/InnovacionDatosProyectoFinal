@@ -1,6 +1,7 @@
 # ETL - EDA - 
 
-**archivos: **
+archivos:
+
 customer_data.csv: (99457, 4) 
 sales_data.csv: (99457, 7) 
 
